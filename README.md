@@ -1,2 +1,2 @@
-# DS-A-Lab-
-This repo contains lab tasks of DS&amp;A (Practical), 6th Semester
+# Data Science and Analytics Lab Tasks
+This repo contains lab tasks of Data Science and Analytics. This subject was taught to us in 6th Semester.
